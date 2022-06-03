@@ -72,9 +72,3 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ScorpiusSigma&show_icons=true&cache_seconds=86400&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ScorpiusSigma&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-<details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-<details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-<details><summary>Default algorithm</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-<details><summary>Default algorithm (with details)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
