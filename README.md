@@ -61,7 +61,8 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
     </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpiusSigma&layout=compact&langs_count=10&hide=processing,makefile,openscad,scilab)](https://github.com/ScorpiusSigma/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpiusSigma&layout=compact&langs_count=10&hide=processing,makefile,openscad,scilab,batchfile)](https://github.com/ScorpiusSigma/github-readme-stats)
 
 ---
 
