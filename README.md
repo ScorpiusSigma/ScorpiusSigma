@@ -61,6 +61,8 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
     </a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpiusSigma&layout=compact)](https://github.com/ScorpiusSigma/github-readme-stats)
+
 ---
 
 <h3>About me</h3>
@@ -72,3 +74,4 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ScorpiusSigma&show_icons=true&cache_seconds=86400&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ScorpiusSigma&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
