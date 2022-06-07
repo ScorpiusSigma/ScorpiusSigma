@@ -67,6 +67,8 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
     </a>
 </div>
 
+<br/>
+
 ---
 
 <h3>About me</h3>
