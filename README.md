@@ -63,7 +63,7 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiussigma&langs_count=10&hide=html,css,processing,makefile,openscad,scilab,batchfile&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiussigma&langs_count=10&hide=processing,makefile,openscad,scilab,batchfile&theme=radical" />
     </a>
 </div>
 
