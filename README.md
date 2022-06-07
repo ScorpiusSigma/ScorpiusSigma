@@ -61,11 +61,11 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
     </a>
 </div>
 
-</br>
-
-<a href="https://github.com/scorpiussigma/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiussigma&hide=html,css,processing,makefile,openscad,scilab,batchfile&theme=radical" />
-</a>
+<div>
+    <a href="https://github.com/scorpiussigma/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiussigma&hide=html,css,processing,makefile,openscad,scilab,batchfile&theme=radical" />
+    </a>
+</div>
 
 ---
 
