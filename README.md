@@ -62,8 +62,8 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
 </div>
 
 <div>
-    <a href="https://github.com/scorpiussigma/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiussigma&hide=html,css,processing,makefile,openscad,scilab,batchfile&theme=radical" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiussigma&langs_count=10&hide=html,css,processing,makefile,openscad,scilab,batchfile&theme=radical" />
     </a>
 </div>
 
