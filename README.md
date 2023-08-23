@@ -23,7 +23,7 @@
 
 ---
 
-I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-leng-a31390151/) focusing on fullstack web applications in Singapore. I focus on front-end technologies like NextJS, TailwindCSS etc. I am looking into web3 development.
+I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-leng-a31390151/) focusing on Full-stack development and Quantitative Development in Singapore. I focus on trading strategies, trading automation, trading servers and web development.
 
 <h3>Things I code with</h3>
 <div>
