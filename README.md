@@ -27,17 +27,19 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
 
 <h3>Things I code with</h3>
 <div>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-2c3e50?style=flat-square&logo=C&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-B94700?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-34495e?style=flat-square&logo=Typescript" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-34495e?style=flat-square&logo=javascript" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-333333?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-2c3e50?style=flat-square&logo=C&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-2980b9?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-34495e?style=flat-square&logo=javascript" />
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-34495e?style=flat-square&logo=Typescript" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
 <h3>Services I use</h3>
@@ -46,12 +48,6 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
     <img alt="aws" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon&logoColor=white" />
     <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-3498db?style=flat-square&logo=docker&logoColor=white" />
-</div>
-
-<h3>Things I'm learning</h3>
-<div>
-    <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-333333?style=flat-square&logo=solidity&logoColor=white" />
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-B94700?style=flat-square&logo=rust&logoColor=white" />
 </div>
 
 <h3>Projects I'm working on</h3>
