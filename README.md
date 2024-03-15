@@ -71,7 +71,7 @@ I'm a [Computer Science Undergraduate @ NUS](https://www.linkedin.com/in/justin-
 
 - 📫 How to reach me: `justinleng_@hotmail.com`
 - ⚡ Fun fact: I have a diploma in Aerospace Engineering
-- 🌱 I'm currently learning blockchain technology and smart contract
+- 🌱 I love building trading technologies such as Trading Engines and Algorithmic Trading
 - 💬 Feel free to ask me anything
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ScorpiusSigma&show_icons=true&cache_seconds=86400&theme=tokyonight)
